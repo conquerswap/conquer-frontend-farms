@@ -1,0 +1,1238 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 278,
+        "text": "Granja"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "Cambio de criptomonedas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "Documentación"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "Votar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "Lotería"
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "Desbloquear monedero"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "Su balance de %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "Total de %asset% fornecidos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "Bloqueado"
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "Cosecha pendiente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "Nuevas recompensas por bloque"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "Total de BOAT quemados desde el lanzamiento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "Vea la cocina"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "Blog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "Depositar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "Ganar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "Agrega LP tokens para ganar BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "Agrega BOAT, receba SYRUP."
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "Usted puede cambiar de vuelta en qualquier momento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "%asset% ganados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "Tokens Agregados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 334,
+        "text": "Siempre que añade o retira los tokens BOAT, el contracto inteligente va a obtener sus recompensas de BOAT por si automáticamente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 338,
+        "text": "The Sous Chef is cooking up a treat for all SYRUP holders"
+      }
+    },
+    {
+      "data": {
+        "stringId": 340,
+        "text": "BOAT Tokens Agregados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 342,
+        "text": "XVS Tokens Ganados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 344,
+        "text": "Añade sus SYRUP para ganar tokens de nuevos proyectos."
+      }
+    },
+    {
+      "data": {
+        "stringId": 346,
+        "text": "Recompensas van a ser calculadas por bloque y el total de recompensas va a ser distribuido automáticamente en el fin del período de cosecha de cada proyecto."
+      }
+    },
+    {
+      "data": {
+        "stringId": 348,
+        "text": "Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 350,
+        "text": "Próximamente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 352,
+        "text": "APR"
+      }
+    },
+    {
+      "data": {
+        "stringId": 354,
+        "text": "Liquidez total"
+      }
+    },
+    {
+      "data": {
+        "stringId": 356,
+        "text": "Vea en BscScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 358,
+        "text": "Precio del BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 360,
+        "text": "%asset% Tokens Ganados"
+      }
+    },
+    {
+      "data": {
+        "stringId": 362,
+        "text": "%num% bloques hasta que el cultivo termine"
+      }
+    },
+    {
+      "data": {
+        "stringId": 364,
+        "text": "Total de Syrup Añadidos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 380,
+        "text": "1 BOAT = 1 SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 382,
+        "text": "Próximamente..."
+      }
+    },
+    {
+      "data": {
+        "stringId": 384,
+        "text": "Sus monedas añadidas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 386,
+        "text": "El cultivo empieza en el bloque %num%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 388,
+        "text": "Finalizado"
+      }
+    },
+    {
+      "data": {
+        "stringId": 390,
+        "text": "Cultivo termina en el bloque %num%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 392,
+        "text": "Site del proyecto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 394,
+        "text": "Retirar SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 400,
+        "text":"Personas que añadiren SYRUP en el website compartirán proporcionalmente 25% de las emisiones de BOAT cada dia(1 BOAT por bloque). Recompensas se distribuirán a cada bloque"
+      }
+    },
+    {
+      "data": {
+        "stringId": 402,
+        "text": "Añade SYRUP para ganar nuevos Tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 406,
+        "text": "Recompensas serán calculadas por bloque."
+      }
+    },
+    {
+      "data": {
+        "stringId": 408,
+        "text": "Total"
+      }
+    },
+    {
+      "data": {
+        "stringId": 410,
+        "text": "Fin"
+      }
+    },
+    {
+      "data": {
+        "stringId": 412,
+        "text": "Vea el site del proyecto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 414,
+        "text": "Su proyecto? \ud83d\udc40"
+      }
+    },
+    {
+      "data": {
+        "stringId": 416,
+        "text": "Crie una Pool para su proyecto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 418,
+        "text": "Aplica ahora"
+      }
+    },
+    {
+      "data": {
+        "stringId": 420,
+        "text": "Fase 1: Comprar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 424,
+        "text": "%num% BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 426,
+        "text": "Utilice BOAT para comprar billetes, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 428,
+        "text": "Your total tickets for this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 430,
+        "text": "Buy ticket"
+      }
+    },
+    {
+      "data": {
+        "stringId": 432,
+        "text": "View your tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 434,
+        "text": "Approx. time left to buy tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 438,
+        "text": "Close"
+      }
+    },
+    {
+      "data": {
+        "stringId": 440,
+        "text": "Latest Winning Numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 442,
+        "text": "Tickets matching 4 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 444,
+        "text": "Tickets matching 3 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 446,
+        "text": "Tickets matching 2 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 448,
+        "text": "Export recent winning numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 450,
+        "text": "Enter amount of tickets to buy"
+      }
+    },
+    {
+      "data": {
+        "stringId": 452,
+        "text": "Max"
+      }
+    },
+    {
+      "data": {
+        "stringId": 454,
+        "text": "%num% BOAT Disponibles"
+      }
+    },
+    {
+      "data": {
+        "stringId": 456,
+        "text": "Your amount must be a multiple of 10 BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 458,
+        "text": "1 Ticket = 10 BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 462,
+        "text": "Cancel"
+      }
+    },
+    {
+      "data": {
+        "stringId": 464,
+        "text": "Confirm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 466,
+        "text": "Warning"
+      }
+    },
+    {
+      "data": {
+        "stringId": 468,
+        "text": "Lottery ticket purchases are final."
+      }
+    },
+    {
+      "data": {
+        "stringId": 472,
+        "text": "Tickets are only valid for one lottery draw, and will be burned after the draw."
+      }
+    },
+    {
+      "data": {
+        "stringId": 474,
+        "text": "Buying tickets does not guarantee you will win anything. Please only participate once you understand the risks."
+      }
+    },
+    {
+      "data": {
+        "stringId": 476,
+        "text": "I understand"
+      }
+    },
+    {
+      "data": {
+        "stringId": 478,
+        "text": "Ticket purchases are final. Your BOAT cannot be returned to you after buying tickets."
+      }
+    },
+    {
+      "data": {
+        "stringId": 480,
+        "text": "Claim prizes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 482,
+        "text": "BOAT prizes to be claimed"
+      }
+    },
+    {
+      "data": {
+        "stringId": 484,
+        "text": "Phase 2: CLAIMING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 486,
+        "text": "You can unstake at any time."
+      }
+    },
+    {
+      "data": {
+        "stringId": 488,
+        "text": "Pending Confirmation"
+      }
+    },
+    {
+      "data": {
+        "stringId": 490,
+        "text": "My Tickets (Total: %TICKETS%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 492,
+        "text": "Approx. time before next lottery start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 494,
+        "text": "Approve BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 496,
+        "text": "SYRUP holders proportionally split 40% of BOAT block emissions each day (10 BOAT per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 500,
+        "text": "IFO: Initial Farm Offerings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 502,
+        "text": "Buy new tokens with a brand new token sale model."
+      }
+    },
+    {
+      "data": {
+        "stringId": 504,
+        "text": "Usted pagará por nuevos tokens usando tokens BOAT-BNB LP, lo que significa que debe agregar BOAT y BNB en cantidades iguales en el liquidity pool para participar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 506,
+        "text": "Receba BOAT-BNB LP >"
+      }
+    },
+    {
+      "data": {
+        "stringId": 508,
+        "text": "El proyecto recebe BNB, y la Conquer Swap quema el BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 510,
+        "text": "Uated recibe sus tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 512,
+        "text": "Quiere lanzar su IFO?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 514,
+        "text": "Lance su proyecto con ConquerSwap, el proyecto Automatic Market Maker y proveedor de liquidez de Binance Smart Chain, para llevar su token a nuestra comunidad en BSC."
+      }
+    },
+    {
+      "data": {
+        "stringId": 516,
+        "text": "Regístrese para lanzar su proyecto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 520,
+        "text": "Comunidade"
+      }
+    },
+    {
+      "data": {
+        "stringId": 522,
+        "text": "Core"
+      }
+    },
+    {
+      "data": {
+        "stringId": 526,
+        "text": "Disponible"
+      }
+    },
+    {
+      "data": {
+        "stringId": 528,
+        "text": "Mi Billetera"
+      }
+    },
+    {
+      "data": {
+        "stringId": 530,
+        "text": "Salir"
+      }
+    },
+    {
+      "data": {
+        "stringId": 532,
+        "text": "cosechar todo (%count%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 534,
+        "text": "Estadísticas de BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 536,
+        "text": "Total de BOAT Fornecidos"
+      }
+    },
+    {
+      "data": {
+        "stringId": 538,
+        "text": "Total de BOAT quemado"
+      }
+    },
+    {
+      "data": {
+        "stringId": 540,
+        "text": "Nuevos BOAT\/bloque"
+      }
+    },
+    {
+      "data": {
+        "stringId": 542,
+        "text": "Granja & Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 544,
+        "text": "BOAT para cosechar:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 546,
+        "text": "BOAT en el monedero:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 548,
+        "text": "Recoger BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 550,
+        "text": "Your Lottery Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 552,
+        "text": "BOAT para cosechar:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 554,
+        "text": "Total jackpot this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 556,
+        "text": "Collect Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 558,
+        "text": "Buy Tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 562,
+        "text": "Harvest"
+      }
+    },
+    {
+      "data": {
+        "stringId": 564,
+        "text": "Aprobar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 568,
+        "text": "Seleccionar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 570,
+        "text": "Winning Numbers This Round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 574,
+        "text": "Staking Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 576,
+        "text": "Conquer Swap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 578,
+        "text": "Granja de ingresos Binance Smart Chain."
+      }
+    },
+    {
+      "data": {
+        "stringId": 580,
+        "text": "Stake BOAT para ganar nuevos tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 582,
+        "text": "Tiempo hasta lanzamiento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 584,
+        "text": "For Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 586,
+        "text": "BOAT para quemar (USD)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 588,
+        "text": "Retirar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 590,
+        "text": "\u2b50\ufe0f Cada vez que añade o retira LP tokens, el contracto inteligente va a obtener sus recompensas de BOAT por si automáticamente"
+      }
+    },
+    {
+      "data": {
+        "stringId": 592,
+        "text": "Cómo Participar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 594,
+        "text": "Antes de la venta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 596,
+        "text": "Compre BOAT y BNB tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 598,
+        "text": "Recibe BOAT-BNB LP tokens al añadir liquidez en BOAT y BNB"
+      }
+    },
+    {
+      "data": {
+        "stringId": 600,
+        "text": "During Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 602,
+        "text": "While the sale is live, commit your BOAT-LP tokens to buy the IFO tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 604,
+        "text": "After Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 606,
+        "text": "Recoja los tokens que usted compró junto con qualquier fondo que no fue gasto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 608,
+        "text": "Hecho!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 610,
+        "text": "Ler más"
+      }
+    },
+    {
+      "data": {
+        "stringId": 612,
+        "text": "Conectar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 614,
+        "text": "Cambie por BOAT, o mantenga su colección!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 616,
+        "text": "Registre su interes en ganar un NFT abajo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 618,
+        "text": "Register for a chance to win"
+      }
+    },
+    {
+      "data": {
+        "stringId": 620,
+        "text": "Learn more"
+      }
+    },
+    {
+      "data": {
+        "stringId": 622,
+        "text": "Trade in NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 624,
+        "text": "Trade in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 626,
+        "text": "You will receive"
+      }
+    },
+    {
+      "data": {
+        "stringId": 628,
+        "text": "When you trade in this NFT to receive BOAT, you will lose access to it forever!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 630,
+        "text": "Claim NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 632,
+        "text": "How it works"
+      }
+    },
+    {
+      "data": {
+        "stringId": 634,
+        "text": "Winners will be able to claim an NFT on this page once the claiming period starts."
+      }
+    },
+    {
+      "data": {
+        "stringId": 636,
+        "text": "If you are not selected, you won\u2019t be able to claim. Better luck next time!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 638,
+        "text": "Winners can trade in their NFTs for a BOAT value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 640,
+        "text": "How are winners selected?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 642,
+        "text": "Winners are selected at random! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 646,
+        "text": "Value if traded in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 648,
+        "text": "Number minted"
+      }
+    },
+    {
+      "data": {
+        "stringId": 650,
+        "text": "Number burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 652,
+        "text": "Claim this NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 654,
+        "text": "Trade in for BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 656,
+        "text": "Loading\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 658,
+        "text": "Details"
+      }
+    },
+    {
+      "data": {
+        "stringId": 660,
+        "text": "You won!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 662,
+        "text": "Claim an NFT from the options below!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 664,
+        "text": "Can be traded until"
+      }
+    },
+    {
+      "data": {
+        "stringId": 666,
+        "text": "Billetera Disconectada"
+      }
+    },
+    {
+      "data": {
+        "stringId": 668,
+        "text": "Connect to see if you have won an NFT!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 670,
+        "text": "Inicio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 672,
+        "text": "Trade"
+      }
+    },
+    {
+      "data": {
+        "stringId": 674,
+        "text": "Granja"
+      }
+    },
+    {
+      "data": {
+        "stringId": 676,
+        "text": "Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 678,
+        "text": "NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 680,
+        "text": "Información"
+      }
+    },
+    {
+      "data": {
+        "stringId": 682,
+        "text": "IFO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 684,
+        "text": "Más"
+      }
+    },
+    {
+      "data": {
+        "stringId": 686,
+        "text": "Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 688,
+        "text": "Vision general"
+      }
+    },
+    {
+      "data": {
+        "stringId": 690,
+        "text": "Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 692,
+        "text": "Pares"
+      }
+    },
+    {
+      "data": {
+        "stringId": 694,
+        "text": "Cuentas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 696,
+        "text": "Aºnade LP tokens para ganar BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 698,
+        "text": "Ativo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 699,
+        "text": "Staked only"
+      }
+    },
+    {
+      "data": {
+        "stringId": 700,
+        "text": "Inactivo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 702,
+        "text": "Dual"
+      }
+    },
+    {
+      "data": {
+        "stringId": 704,
+        "text": "Compound"
+      }
+    },
+    {
+      "data": {
+        "stringId": 706,
+        "text": "Retirar %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 708,
+        "text": "The BOAT Lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 710,
+        "text": "Buy tickets with BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 712,
+        "text": "Win if 2, 3 or 4 of your ticket numbers match!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 716,
+        "text": "Next draw"
+      }
+    },
+    {
+      "data": {
+        "stringId": 718,
+        "text": "Past draws"
+      }
+    },
+    {
+      "data": {
+        "stringId": 720,
+        "text": "Round %num%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 722,
+        "text": "Total Pot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 724,
+        "text": "Your tickets for this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 726,
+        "text": "Sorry, no prizes to collect"
+      }
+    },
+    {
+      "data": {
+        "stringId": 728,
+        "text": "En el monedero:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10000,
+        "text": "La tarifa se utilizará para comprar BOAT de vuelta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10001,
+        "text": "Tarifa de depósito"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10002,
+        "text": "Añade tokens para ganar BOAT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10003,
+        "text": "Comunicados"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
