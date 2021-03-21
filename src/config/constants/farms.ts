@@ -197,7 +197,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BOAT',
     lpAddresses: {
       97: '',
-      56: '0xfB742b814F5F059E7f8F730a8609930399FBEc04', // BOAT-BUSD LP
+      56: '0xe633ed4f7879516e4830fde8cc414385e1fea42d', // BOAT-BUSD LP
     },
     tokenSymbol: 'BOAT',
     tokenAddresses: {
