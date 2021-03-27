@@ -8,7 +8,7 @@ const ifos: Ifo[] = [
     name: 'Conquerswap Token (BOAT)',
     subTitle: '',
     description:
-      'ConquerSwap IFO sale',
+      'Conquer Swap is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.',
     launchDate: 'Mar. 28',
     launchTime: '9PM SGT',
     saleAmount: '16,666 BOAT',
