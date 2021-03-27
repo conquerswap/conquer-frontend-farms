@@ -49,7 +49,7 @@ const IfoCardDetails: React.FC<IfoCardDetailsProps> = ({
           <Text>
             {launchDate},
             <Link
-              href="https://www.timeanddate.com/worldclock/singapore/singapore"
+              href="https://www.timeanddate.com/time/zones/gmt"
               target="blank"
               rel="noopener noreferrer"
               ml="4px"
@@ -66,10 +66,6 @@ const IfoCardDetails: React.FC<IfoCardDetailsProps> = ({
         <Item>
           <Display>{TranslateString(999, 'To raise (USD)')}</Display>
           <Text>{raiseAmount}</Text>
-        </Item>
-        <Item>
-          <Display>{TranslateString(586, 'CAKE to burn (USD)')}</Display>
-          <Text>{cakeToBurn}</Text>
         </Item>
         <Item>
           <Display>{TranslateString(999, 'Total raised (% of target)')}</Display>
