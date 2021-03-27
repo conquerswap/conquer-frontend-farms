@@ -13,6 +13,7 @@ const ifos: Ifo[] = [
     launchTime: '15PM GMT',
     saleAmount: '8,333 BOAT',
     raiseAmount: '$50,000',
+    cakeToBurn: '$0',
     projectSiteUrl: 'https://conquerswap.finance',
     currency: 'BUSD LP',
     currencyAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
