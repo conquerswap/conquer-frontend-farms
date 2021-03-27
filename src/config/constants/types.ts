@@ -17,6 +17,7 @@ export interface Ifo {
   currencyAddress: string
   tokenDecimals: number
   releaseBlockNumber: number
+  campaignId?: string
 }
 
 export enum QuoteToken {
@@ -83,4 +84,14 @@ export type Nft = {
   blurImage: string
   sortOrder: number
   bunnyId: number
+}
+
+export type CampaignType = 'ifo'
+
+export type Campaign = {
+  id: string
+  type: CampaignType
+  title?: TranslatableText
+  description?: TranslatableText
+  badge?: string
 }
