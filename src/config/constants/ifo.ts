@@ -19,7 +19,6 @@ const ifos: Ifo[] = [
     currencyAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
     tokenDecimals: 18,
     releaseBlockNumber: 7457518,
-    campaignId: '511080000',
   },
 ]
 

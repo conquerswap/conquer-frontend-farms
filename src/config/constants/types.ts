@@ -85,13 +85,3 @@ export type Nft = {
   sortOrder: number
   bunnyId: number
 }
-
-export type CampaignType = 'ifo'
-
-export type Campaign = {
-  id: string
-  type: CampaignType
-  title?: TranslatableText
-  description?: TranslatableText
-  badge?: string
-}
