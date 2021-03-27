@@ -3,9 +3,9 @@ import { Ifo } from './types'
 const ifos: Ifo[] = [
   {
     id: 'boat',
-    address: '0x0272D3074FFb33cc590C2D0E9f8925c4b5a8D071',
+    address: '0xcc77421A057CECb515A34D85DCae1f7084904D9a',
     isActive: true,
-    name: 'Conquerswap Token (BOAT)',
+    name: 'Conquer Swap Token (BOAT)',
     subTitle: '',
     description:
       'Conquer Swap is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.',
