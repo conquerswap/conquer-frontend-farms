@@ -94,7 +94,7 @@ const IfoCardContribute: React.FC<Props> = ({
       <LabelButton
         disabled={pendingTx || userInfo.claimed}
         buttonLabel={isFinished ? 'Claim' : 'Contribute'}
-        label={isFinished ? 'Your tokens to claim' : `Your contribution (${currency})`}
+        label={isFinished ? 'Your tokens to claim' : `Your purchased Tokens (BOAT)`}
         value={
           // eslint-disable-next-line no-nested-ternary
           isFinished
