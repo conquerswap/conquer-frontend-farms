@@ -1835,9 +1835,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@conquerswap/conquer-uikit":
+"@pancakeswap-libs/uikit@testswap/conquer-uikit":
   version "0.10.2"
-  resolved "https://github.com/conquerswap/conquer-uikit/archive/master.tar.gz"
+  resolved "https://github.com/testswap/conquer-uikit/archive/master.tar.gz"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
