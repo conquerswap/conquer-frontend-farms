@@ -6,9 +6,9 @@ const ifos: Ifo[] = [
     address: '0x0272D3074FFb33cc590C2D0E9f8925c4b5a8D071',
     isActive: true,
     name: 'Conquerswap Token (BOAT)',
-    subTitle: 't',
+    subTitle: '',
     description:
-      'ConquerSwap ICO sale',
+      'ConquerSwap IFO sale',
     launchDate: 'Mar. 28',
     launchTime: '9PM SGT',
     saleAmount: '16,666 BOAT',
