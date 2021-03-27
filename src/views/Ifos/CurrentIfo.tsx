@@ -65,7 +65,6 @@ const Ifo = () => {
             <li>{TranslateString(608, 'Done!')}</li>
           </List>
         </div>
-        </div>
       </LaunchIfoCallout>
     </div>
   )
