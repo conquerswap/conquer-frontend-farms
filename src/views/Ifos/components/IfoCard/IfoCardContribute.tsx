@@ -107,7 +107,7 @@ const IfoCardContribute: React.FC<Props> = ({
       />
       <Text fontSize="14px" color="textSubtle">
         {isFinished
-          ? `You'll be refunded any excess tokens when you claim`
+          ? ``
           : `${percentOfUserContribution.toFixed(5)}% of total`}
       </Text>
     </>
