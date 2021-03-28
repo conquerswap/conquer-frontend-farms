@@ -9,8 +9,8 @@ const ifos: Ifo[] = [
     subTitle: '',
     description:
       'Conquer Swap is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.',
-    launchDate: 'Mar. 27',
-    launchTime: '15PM GMT',
+    launchDate: 'Mar. 28',
+    launchTime: '11AM GMT',
     saleAmount: '8,333 BOAT',
     raiseAmount: '$50,000',
     cakeToBurn: '$0',
