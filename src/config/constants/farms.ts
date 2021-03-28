@@ -3,7 +3,7 @@ import { FarmConfig, QuoteToken } from './types'
 
 const farms: FarmConfig[] = [
   {
-    pid: 6,
+    pid: 0,
     risk: 5,
     lpSymbol: 'BOAT-BUSD LP',
     lpAddresses: {
@@ -19,7 +19,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 7,
+    pid: 1,
     risk: 5,
     lpSymbol: 'BOAT-BNB LP',
     lpAddresses: {
@@ -35,7 +35,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 8,
+    pid: 2,
     risk: 3,
     lpSymbol: 'BNB-BUSD LP',
     lpAddresses: {
@@ -51,7 +51,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 0,
+    pid: 3,
     risk: 1,
     lpSymbol: 'USDT-BUSD LP',
     lpAddresses: {
@@ -102,6 +102,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   */
+  /**
   {
     pid: 1,
     risk: 1,
@@ -118,6 +119,8 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  */
+  /**
   {
     pid: 2,
     risk: 1,
@@ -134,6 +137,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  */
   /**
   {
     pid: 8,
@@ -189,7 +193,7 @@ const farms: FarmConfig[] = [
   },
   */
   {
-    pid: 3,
+    pid: 4,
     risk: 5,
     isTokenOnly: true,
     lpSymbol: 'BOAT',
@@ -205,6 +209,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  /**
   {
     pid: 4,
     risk: 1,
@@ -222,6 +227,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  */
   /**
   {
     pid: 13,
@@ -260,6 +266,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   */
+  /**
   {
     pid: 5,
     risk: 1,
@@ -277,6 +284,7 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  */
   /**
   {
     pid: 15,
