@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BOAT-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xe633ed4f7879516e4830fde8cc414385e1fea42d',
+      56: '0xbdeff7ef2e5dfa51bcc728df36cdd8e683fcc323',
     },
     tokenSymbol: 'BOAT',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BOAT-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x6891cfb614f5c564010e4c132a871fcf735406c0',
+      56: '0x8F23c5F3b6fF174d925aeeA422D9564Be53aC0Ea',
     },
     tokenSymbol: 'BOAT',
     tokenAddresses: {
@@ -199,7 +199,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BOAT',
     lpAddresses: {
       97: '',
-      56: '0xe633ed4f7879516e4830fde8cc414385e1fea42d', // BOAT-BUSD LP
+      56: '0xbdeff7ef2e5dfa51bcc728df36cdd8e683fcc323', // BOAT-BUSD LP
     },
     tokenSymbol: 'BOAT',
     tokenAddresses: {
